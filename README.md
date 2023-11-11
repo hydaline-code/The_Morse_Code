@@ -98,9 +98,9 @@ Install this project with:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Hydaline-code**
+👤 **Hydaline Charlene**
 
-- GitHub: [@githubhandle](https://github.com/hydaline-code)
+- GitHub: [Hydaline](https://github.com/hydaline-code)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
